@@ -1,4 +1,7 @@
 # Použitý software
+Seznam licencí ke všem použitým součástem a knihovnám toho softwaru.
+
+eFyzika je uvolněná pod MIT licencí.
 
 ## Metro UI framework
 
