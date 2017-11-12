@@ -1,5 +1,5 @@
 # Architektura aplikace
-###### V rámci aplikace eFyzika se používá určité architektury a systému funkčnosti aplikace. V tomto dokumentu jsou popsány veškeré informace ohledně backendu i frontendu aplikace.
+###### V rámci aplikace eFyzika se používá určité architektury a systému funkčnosti aplikace. 
 
 ### Technické řešení aplikace
 * Visual Basic a standartní uživatelské rozhraní Windows Forms
